@@ -1,0 +1,26 @@
+Case1:
+Input: 
+{30, 20, 10, 15, 40, 25, 27, 26, 5, 13, 14}
+Output: 
+Value: 5, Height: 1
+Value: 10, Height: 3
+Value: 13, Height: 1
+Value: 14, Height: 2
+Value: 15, Height: 1
+Value: 20, Height: 4
+Value: 25, Height: 1
+Value: 26, Height: 2
+Value: 27, Height: 1
+Value: 30, Height: 3
+Value: 40, Height: 1
+
+Case2:
+Input: 
+{18, 8, 35, 20, 50, 55}
+Output:
+Value: 8, Height: 1
+Value: 18, Height: 2
+Value: 20, Height: 1
+Value: 35, Height: 3
+Value: 50, Height: 2
+Value: 55, Height: 1
