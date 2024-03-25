@@ -1,1 +1,1 @@
-# BinaryTreeASL
+# TreeGolang algorithm
