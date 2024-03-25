@@ -1,1 +1,1 @@
-# TreeGolang
+# TreeGolang algorithm
